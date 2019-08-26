@@ -1,9 +1,11 @@
 body{
-      background-color: brown;
+      background-color: pink;
+      margin: 0;
 }
 
 p{
       color: blue;
+      background-color: darkgoldenrod;
 }
 h1{
       color: red;
